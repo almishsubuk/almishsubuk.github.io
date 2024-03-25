@@ -1,0 +1,62 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-2.png",
+      "title": "Frontend",
+      "description": "Can work with HTML, CSS, JavaScript, React and more. Has experience with UI/UX design and can create responsive web applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/server-solid.png",
+      "title": "Backend",
+      "description": "Can make real time applications, work with databases, and  use APIs to create dynamic web applications."
+    },
+    {
+      "id": "3",
+      "src": "./img/python-brands.png",
+      "title": "Data Analysis",
+      "description": "Can work with data, clean it, analyze it, and visualize it. Has experience with Python, Pandas, Numpy, and more."
+    },
+    {
+      "id": "4",
+      "src": "./img/gamepad-solid.png",
+      "title": "Game Development",
+      "description": "Can create games using Unity, C#, and more. Has experience with 2D and 3D game development."
+    },
+    {
+      "id": "4",
+      "src": "./img/mobile-solid.png",
+      "title": "Mobile Development",
+      "description": "Can create mobile applications using React Native, Android Studio, and more. Has experience with both Android and iOS development."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/weather.png",
+      "title": "Weather App",
+      "description": "An Android app developed in Java that shows the weather of a city using the OpenWeatherMap API. The app has a clean and simple UI and is easy to use. For more information, visit the Github page, where you can download the app for yourself.",
+      "link": "View In Github",
+      "github": "https://github.com/yalikejazz1337/weatherAndroidApp",
+      "view": ""
+    },
+    {
+      "id": "2",
+      "src": "./img/chat.png",
+      "title": "Chat App",
+      "description": "A chat application made using React and Firebase. The app has a clean and simple UI and is easy to use. For more information, visit the Github page. You can also view the app by clicking the button below.",
+      "link": "View Application",
+      "github": "https://almish.me/react-chat",
+      "view": "https://almish.me/react-chat"
+    },
+    {
+      "id": "3",
+      "src": "../img/catt.png",
+      "title": "CS:CO",
+      "description": "A fun cat themed shootemup game made using Unity and C#. It was developed for a game jam. It is one of the many games I've developed. You can see more by visiting my itch.io page by clicking the button below.",
+      "link": "View Game",
+      "github": "https://almishthedev.itch.io/csco"
+    }
+  ]
+}
