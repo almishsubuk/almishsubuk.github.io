@@ -57,6 +57,30 @@
       "description": "A fun cat themed shootemup game made using Unity and C#. It was developed for a game jam. It is one of the many games I've developed. You can see more by visiting my itch.io page by clicking the button below.",
       "link": "View Game",
       "github": "https://almishthedev.itch.io/csco"
+    },
+    {
+      "id": "4",
+      "src": "../img/catt.png",
+      "title": "CS:CO",
+      "description": "A fun cat themed shootemup game made using Unity and C#. It was developed for a game jam. It is one of the many games I've developed. You can see more by visiting my itch.io page by clicking the button below.",
+      "link": "View Game",
+      "github": "https://almishthedev.itch.io/csco"
+    },
+    {
+      "id": "5",
+      "src": "../img/catt.png",
+      "title": "CS:CO",
+      "description": "A fun cat themed shootemup game made using Unity and C#. It was developed for a game jam. It is one of the many games I've developed. You can see more by visiting my itch.io page by clicking the button below.",
+      "link": "View Game",
+      "github": "https://almishthedev.itch.io/csco"
+    },
+    {
+      "id": "6",
+      "src": "../img/catt.png",
+      "title": "CS:CO",
+      "description": "A fun cat themed shootemup game made using Unity and C#. It was developed for a game jam. It is one of the many games I've developed. You can see more by visiting my itch.io page by clicking the button below.",
+      "link": "View Game",
+      "github": "https://almishthedev.itch.io/csco"
     }
   ]
 }
