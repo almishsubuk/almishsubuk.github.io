@@ -10,7 +10,7 @@ export default function HeroSection() {
             <span className="hero--section--title--color">Developer</span>
           </h1>
           <p className="hero--section--description">
-            I'm a 13 year old developer who deals with full stack applications.
+            I'm a young developer who deals with full stack applications.
             <br />I love programming and can work with a variety of languages
             and frameworks.
           </p>
