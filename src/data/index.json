@@ -38,7 +38,7 @@
       "title": "Weather App",
       "description": "An Android app developed in Java that shows the weather of a city using the OpenWeatherMap API. The app has a clean and simple UI and is easy to use. For more information, visit the Github page, where you can download the app for yourself.",
       "link": "View In Github",
-      "github": "https://github.com/yalikejazz1337/weatherAndroidApp",
+      "github": "https://github.com/almishsubuk/weatherAndroidApp",
       "view": ""
     },
     {
@@ -47,35 +47,11 @@
       "title": "Chat App",
       "description": "A chat application made using React and Firebase. The app has a clean and simple UI and is easy to use. For more information, visit the Github page. You can also view the app by clicking the button below.",
       "link": "View Application",
-      "github": "https://almish.me/react-chat",
-      "view": "https://almish.me/react-chat"
+      "github": "https://almishsubuk.github.io/react-chat",
+      "view": "https://almishsubuk.github.io/react-chat"
     },
     {
       "id": "3",
-      "src": "../img/catt.png",
-      "title": "CS:CO",
-      "description": "A fun cat themed shootemup game made using Unity and C#. It was developed for a game jam. It is one of the many games I've developed. You can see more by visiting my itch.io page by clicking the button below.",
-      "link": "View Game",
-      "github": "https://almishthedev.itch.io/csco"
-    },
-    {
-      "id": "4",
-      "src": "../img/catt.png",
-      "title": "CS:CO",
-      "description": "A fun cat themed shootemup game made using Unity and C#. It was developed for a game jam. It is one of the many games I've developed. You can see more by visiting my itch.io page by clicking the button below.",
-      "link": "View Game",
-      "github": "https://almishthedev.itch.io/csco"
-    },
-    {
-      "id": "5",
-      "src": "../img/catt.png",
-      "title": "CS:CO",
-      "description": "A fun cat themed shootemup game made using Unity and C#. It was developed for a game jam. It is one of the many games I've developed. You can see more by visiting my itch.io page by clicking the button below.",
-      "link": "View Game",
-      "github": "https://almishthedev.itch.io/csco"
-    },
-    {
-      "id": "6",
       "src": "../img/catt.png",
       "title": "CS:CO",
       "description": "A fun cat themed shootemup game made using Unity and C#. It was developed for a game jam. It is one of the many games I've developed. You can see more by visiting my itch.io page by clicking the button below.",
